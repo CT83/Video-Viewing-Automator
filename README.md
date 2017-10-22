@@ -22,7 +22,7 @@ drops on it's own.</li>
 <hr>
 
 Screenshots
-![Screenshot](image1.jpg)
+![Screenshot](README/image1.jpg)
 
 
 <br>
