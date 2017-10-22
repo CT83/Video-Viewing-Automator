@@ -1,8 +1,9 @@
 # Video-Viewing-Automator
 
 <br>
-<b>Introduction</b>
-This AutoIt Application was written to automate the job of watching videos, selecting next videos (managing the network anomalies, change in network speeds) for a website which paid users to do so. 
+<b>Introduction</b>:
+This AutoIt Application was written to automate the job of watching videos, selecting next videos (managing the network anomalies, change in network speeds) for a website which paid users to do so.
+This was my first Business Application which was actually used by a third party.
 
 April 2016 - Aug 2015 (6 Hours/Day)
 September 2015 - December 2016 (3 Hours/Day)
@@ -10,7 +11,7 @@ September 2015 - December 2016 (3 Hours/Day)
 <b>Vision</b>:
 The project was aimed at automating a job which required 24x7 human interaction to something which was capable of running all on it's own with close to zero human intervention. 
 
-<b>Result</b>:
+<b>Result</b>
 <ul>
 <li>It was a major success as it removed need of 3 Shifts of unskilled workers working 24x7.</li>
 <li>Saved the company 33% in revenue</li>
@@ -21,7 +22,9 @@ drops on it's own.</li>
 </ul>
 <hr>
 
-Screenshots
+<b>Screenshots</b>
+
+Video-Viewing-Automator
 ![Screenshot](README/image1.JPG)
 
 
