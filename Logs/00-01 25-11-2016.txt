@@ -1,0 +1,284 @@
+(00:01:13) Starting to Write in TodaysFile
+(00:01:13) Todays Session Date is : 25112016
+(00:01:13) The Saved Date is : 25112016
+(00:01:13) Match Date
+(00:01:13) Todays File Name is  :25112016.ct83
+(00:01:13) Reading from File 25112016.ct83
+(00:01:13) Views  :VQú 
+(00:01:14) Writing Following views in File  :VQú 
+(00:01:14) Reading from File 25112016.ct83
+(00:01:14) Views  :VQú 
+(00:01:14) Program Successfully Loaded!
+(00:01:14) Loading  :'   800   'from : Configurations\Default\Target1\GS1_TarToday.ct83
+(00:01:14) Loading  :'   22   'from : Configurations\Default\Target1\GS1_TarHours.ct83
+(00:01:14) Loading  :'   True   'from : Configurations\Default\Target1\GS1_TarChk.ct83
+(00:01:14) Loading  :'   100   'from : Configurations\Default\Hustle1\GS1_HusLim.ct83
+(00:01:14) Loading  :'   600   'from : Configurations\Default\Hustle1\GS1_HusBef.ct83
+(00:01:14) Loading  :'   True   'from : Configurations\Default\Hustle1\GS1_HusChk.ct83
+(00:01:14) Loading  :'   15   'from : Configurations\Default\Randomization1\GS1_RandTar.ct83
+(00:01:14) Loading  :'   15   'from : Configurations\Default\Randomization1\GS1_RandHus.ct83
+(00:01:15) Loading  :'   True   'from : Configurations\Default\Randomization1\GS1_RandChk.ct83
+(00:01:15) Loading  :'   False   'from : Configurations\Default\Scheme1\GS1_Chk.ct83
+(00:01:15) Loading  :'   000   'from : Configurations\Default\Target2\GS2_TarToday.ct83
+(00:01:15) Loading  :'   000   'from : Configurations\Default\Target2\GS2_TarHours.ct83
+(00:01:15) Loading  :'   False   'from : Configurations\Default\Target2\GS2_TarChk.ct83
+(00:01:15) Loading  :'   000   'from : Configurations\Default\Hustle2\GS2_HusLim.ct83
+(00:01:15) Loading  :'   000   'from : Configurations\Default\Hustle2\GS2_HusBef.ct83
+(00:01:15) Loading  :'   False   'from : Configurations\Default\Hustle2\GS2_HusChk.ct83
+(00:01:15) Loading  :'   000   'from : Configurations\Default\Randomization2\GS2_RandTar.ct83
+(00:01:15) Loading  :'   000   'from : Configurations\Default\Randomization2\GS2_RandHus.ct83
+(00:01:15) Loading  :'   False   'from : Configurations\Default\Randomization2\GS2_RandChk.ct83
+(00:01:15) Loading  :'   False   'from : Configurations\Default\Scheme2\GS2_Chk.ct83
+(00:01:16) Loading  :'   000   'from : Configurations\Default\Target3\GS3_TarToday.ct83
+(00:01:16) Loading  :'   000   'from : Configurations\Default\Target3\GS3_TarHours.ct83
+(00:01:16) Loading  :'   False   'from : Configurations\Default\Target3\GS3_TarChk.ct83
+(00:01:16) Loading  :'   000   'from : Configurations\Default\Hustle3\GS3_HusLim.ct83
+(00:01:16) Loading  :'   000   'from : Configurations\Default\Hustle3\GS3_HusBef.ct83
+(00:01:16) Loading  :'   False   'from : Configurations\Default\Hustle3\GS3_HusChk.ct83
+(00:01:16) Loading  :'   000   'from : Configurations\Default\Randomization3\GS3_RandTar.ct83
+(00:01:16) Loading  :'   000   'from : Configurations\Default\Randomization3\GS3_RandHus.ct83
+(00:01:16) Loading  :'   False   'from : Configurations\Default\Randomization3\GS3_RandChk.ct83
+(00:01:16) Loading  :'   False   'from : Configurations\Default\Scheme3\GS3_Chk.ct83
+(00:01:16) Loading  :'   30   'from : Configurations\Default\Pushbullet\GPsh_AftCyc.ct83
+(00:01:17) Loading  :'   4   'from : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:17) Loading  :'   4   'from : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:17) Loading  :'   4   'from : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:17) Loading  :'   4   'from : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:17) Loading  :'   False   'from : Configurations\Default\Pushbullet\GPsh_Chk.ct83
+(00:01:17) Loading  :'   False   'from : Configurations\Default\Misc\Gautostartcheck.ct83
+(00:01:17) Loading  :'   60   'from : Configurations\Default\Misc\GCIAP.ct83
+(00:01:17) Loading  :'   001   'from : Configurations\Default\Misc\GNickName_Edit.ct83
+(00:01:17) Loading  :'   4   'from : Configurations\Default\Misc\GZ_Lim.ct83
+(00:01:17) Loading  :'   400   'from : Configurations\Default\Misc\GL_Lim.ct83
+(00:01:17) Loading  :'   Username   'from : Configurations\Default\LogIn\GLoginID.ct83
+(00:01:18) Loading  :'   Password   'from : Configurations\Default\LogIn\GPassword.ct83
+(00:01:18) Loading  :'   False   'from : Configurations\Default\Screenshot\GScrSht_FChk.ct83
+(00:01:18) Loading  :'   False   'from : Configurations\Default\Screenshot\GScrSht_SChk.ct83
+(00:01:18) Loading  :'   00   'from : Configurations\Default\Coordinates\GCoord_x.ct83
+(00:01:18) Loading  :'   00   'from : Configurations\Default\Coordinates\GCoord_y.ct83
+(00:01:18) Checking if 30
+(00:01:18) 30 is UnChecked.
+(00:01:18) Checking if 57
+(00:01:18) 57 is UnChecked.
+(00:01:18) Checking if 44
+(00:01:18) 44 is UnChecked.
+(00:01:19) Checking if 64
+(00:01:19) 64 is UnChecked.
+(00:01:19) Checking if 42
+(00:01:19) 42 is UnChecked.
+(00:01:19) Checking if 83
+(00:01:19) 83 is UnChecked.
+(00:01:19) Checking if 70
+(00:01:19) 70 is UnChecked.
+(00:01:19) Checking if 90
+(00:01:19) 90 is UnChecked.
+(00:01:20) Checking if 68
+(00:01:20) 68 is UnChecked.
+(00:01:20) Checking if 108
+(00:01:20) 108 is UnChecked.
+(00:01:20) Checking if 95
+(00:01:20) 95 is UnChecked.
+(00:01:20) Checking if 115
+(00:01:20) 115 is UnChecked.
+(00:01:20) Checking if 117
+(00:01:20) 117 is UnChecked.
+(00:01:21) Checking if 18
+(00:01:21) 18 is UnChecked.
+(00:01:21) Checking if 122
+(00:01:21) 122 is UnChecked.
+(00:01:21) Checking if 123
+(00:01:21) 123 is UnChecked.
+(00:01:21) Data Saving Complete!
+(00:01:21)  Auto Start is Disabled. 
+(00:01:41) Saving '   800   'in : Configurations\Default\Target1\GS1_TarToday.ct83
+(00:01:41) Saving '   22   'in : Configurations\Default\Target1\GS1_TarHours.ct83
+(00:01:42) Saving '   0   'in : Configurations\Default\Target1\GS1_TarChk.ct83
+(00:01:42) Saving '   100   'in : Configurations\Default\Hustle1\GS1_HusLim.ct83
+(00:01:42) Saving '   600   'in : Configurations\Default\Hustle1\GS1_HusBef.ct83
+(00:01:42) Saving '   0   'in : Configurations\Default\Hustle1\GS1_HusChk.ct83
+(00:01:42) Saving '   15   'in : Configurations\Default\Randomization1\GS1_RandTar.ct83
+(00:01:42) Saving '   15   'in : Configurations\Default\Randomization1\GS1_RandHus.ct83
+(00:01:42) Saving '   0   'in : Configurations\Default\Randomization1\GS1_RandChk.ct83
+(00:01:43) Saving '   1   'in : Configurations\Default\Scheme1\GS1_Chk.ct83
+(00:01:43) Saving '   000   'in : Configurations\Default\Target2\GS2_TarToday.ct83
+(00:01:43) Saving '   000   'in : Configurations\Default\Target2\GS2_TarHours.ct83
+(00:01:43) Saving '   1   'in : Configurations\Default\Target2\GS2_TarChk.ct83
+(00:01:43) Saving '   000   'in : Configurations\Default\Hustle2\GS2_HusLim.ct83
+(00:01:43) Saving '   000   'in : Configurations\Default\Hustle2\GS2_HusBef.ct83
+(00:01:43) Saving '   1   'in : Configurations\Default\Hustle2\GS2_HusChk.ct83
+(00:01:43) Saving '   000   'in : Configurations\Default\Randomization2\GS2_RandTar.ct83
+(00:01:44) Saving '   000   'in : Configurations\Default\Randomization2\GS2_RandHus.ct83
+(00:01:44) Saving '   1   'in : Configurations\Default\Randomization2\GS2_RandChk.ct83
+(00:01:44) Saving '   1   'in : Configurations\Default\Scheme2\GS2_Chk.ct83
+(00:01:44) Saving '   000   'in : Configurations\Default\Target3\GS3_TarToday.ct83
+(00:01:44) Saving '   000   'in : Configurations\Default\Target3\GS3_TarHours.ct83
+(00:01:45) Saving '   1   'in : Configurations\Default\Target3\GS3_TarChk.ct83
+(00:01:45) Saving '   000   'in : Configurations\Default\Hustle3\GS3_HusLim.ct83
+(00:01:45) Saving '   000   'in : Configurations\Default\Hustle3\GS3_HusBef.ct83
+(00:01:45) Saving '   1   'in : Configurations\Default\Hustle3\GS3_HusChk.ct83
+(00:01:45) Saving '   000   'in : Configurations\Default\Randomization3\GS3_RandTar.ct83
+(00:01:45) Saving '   000   'in : Configurations\Default\Randomization3\GS3_RandHus.ct83
+(00:01:45) Saving '   1   'in : Configurations\Default\Randomization3\GS3_RandChk.ct83
+(00:01:46) Saving '   1   'in : Configurations\Default\Scheme3\GS3_Chk.ct83
+(00:01:46) Saving '   30   'in : Configurations\Default\Pushbullet\GPsh_AftCyc.ct83
+(00:01:46) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:46) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:46) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:46) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:47) Saving '   1   'in : Configurations\Default\Pushbullet\GPsh_Chk.ct83
+(00:01:47) Saving '   1   'in : Configurations\Default\Misc\Gautostartcheck.ct83
+(00:01:47) Saving '   60   'in : Configurations\Default\Misc\GCIAP.ct83
+(00:01:47) Saving '   001   'in : Configurations\Default\Misc\GNickName_Edit.ct83
+(00:01:47) Saving '   4   'in : Configurations\Default\Misc\GZ_Lim.ct83
+(00:01:47) Saving '   400   'in : Configurations\Default\Misc\GL_Lim.ct83
+(00:01:47) Saving '   Username   'in : Configurations\Default\LogIn\GLoginID.ct83
+(00:01:48) Saving '   Password   'in : Configurations\Default\LogIn\GPassword.ct83
+(00:01:48) Saving '   1   'in : Configurations\Default\Screenshot\GScrSht_FChk.ct83
+(00:01:48) Saving '   1   'in : Configurations\Default\Screenshot\GScrSht_SChk.ct83
+(00:01:48) Saving '   00   'in : Configurations\Default\Coordinates\GCoord_x.ct83
+(00:01:48) Saving '   00   'in : Configurations\Default\Coordinates\GCoord_y.ct83
+(00:01:48) Saved All Data!
+(00:01:48) Saving '   800   'in : Configurations\Default\Target1\GS1_TarToday.ct83
+(00:01:48) Saving '   22   'in : Configurations\Default\Target1\GS1_TarHours.ct83
+(00:01:49) Saving '   0   'in : Configurations\Default\Target1\GS1_TarChk.ct83
+(00:01:49) Saving '   100   'in : Configurations\Default\Hustle1\GS1_HusLim.ct83
+(00:01:49) Saving '   600   'in : Configurations\Default\Hustle1\GS1_HusBef.ct83
+(00:01:49) Saving '   0   'in : Configurations\Default\Hustle1\GS1_HusChk.ct83
+(00:01:49) Saving '   15   'in : Configurations\Default\Randomization1\GS1_RandTar.ct83
+(00:01:50) Saving '   15   'in : Configurations\Default\Randomization1\GS1_RandHus.ct83
+(00:01:50) Saving '   0   'in : Configurations\Default\Randomization1\GS1_RandChk.ct83
+(00:01:50) Saving '   1   'in : Configurations\Default\Scheme1\GS1_Chk.ct83
+(00:01:50) Saving '   000   'in : Configurations\Default\Target2\GS2_TarToday.ct83
+(00:01:50) Saving '   000   'in : Configurations\Default\Target2\GS2_TarHours.ct83
+(00:01:50) Saving '   1   'in : Configurations\Default\Target2\GS2_TarChk.ct83
+(00:01:50) Saving '   000   'in : Configurations\Default\Hustle2\GS2_HusLim.ct83
+(00:01:51) Saving '   000   'in : Configurations\Default\Hustle2\GS2_HusBef.ct83
+(00:01:51) Saving '   1   'in : Configurations\Default\Hustle2\GS2_HusChk.ct83
+(00:01:51) Saving '   000   'in : Configurations\Default\Randomization2\GS2_RandTar.ct83
+(00:01:51) Saving '   000   'in : Configurations\Default\Randomization2\GS2_RandHus.ct83
+(00:01:51) Saving '   1   'in : Configurations\Default\Randomization2\GS2_RandChk.ct83
+(00:01:51) Saving '   1   'in : Configurations\Default\Scheme2\GS2_Chk.ct83
+(00:01:52) Saving '   000   'in : Configurations\Default\Target3\GS3_TarToday.ct83
+(00:01:52) Saving '   000   'in : Configurations\Default\Target3\GS3_TarHours.ct83
+(00:01:52) Saving '   1   'in : Configurations\Default\Target3\GS3_TarChk.ct83
+(00:01:52) Saving '   000   'in : Configurations\Default\Hustle3\GS3_HusLim.ct83
+(00:01:53) Saving '   000   'in : Configurations\Default\Hustle3\GS3_HusBef.ct83
+(00:01:53) Saving '   1   'in : Configurations\Default\Hustle3\GS3_HusChk.ct83
+(00:01:53) Saving '   000   'in : Configurations\Default\Randomization3\GS3_RandTar.ct83
+(00:01:53) Saving '   000   'in : Configurations\Default\Randomization3\GS3_RandHus.ct83
+(00:01:53) Saving '   1   'in : Configurations\Default\Randomization3\GS3_RandChk.ct83
+(00:01:53) Saving '   1   'in : Configurations\Default\Scheme3\GS3_Chk.ct83
+(00:01:53) Saving '   30   'in : Configurations\Default\Pushbullet\GPsh_AftCyc.ct83
+(00:01:54) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:54) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:54) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:54) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:01:54) Saving '   1   'in : Configurations\Default\Pushbullet\GPsh_Chk.ct83
+(00:01:55) Saving '   1   'in : Configurations\Default\Misc\Gautostartcheck.ct83
+(00:01:55) Saving '   60   'in : Configurations\Default\Misc\GCIAP.ct83
+(00:01:55) Saving '   001   'in : Configurations\Default\Misc\GNickName_Edit.ct83
+(00:01:55) Saving '   4   'in : Configurations\Default\Misc\GZ_Lim.ct83
+(00:01:55) Saving '   400   'in : Configurations\Default\Misc\GL_Lim.ct83
+(00:01:55) Saving '   Username   'in : Configurations\Default\LogIn\GLoginID.ct83
+(00:01:55) Saving '   Password   'in : Configurations\Default\LogIn\GPassword.ct83
+(00:01:56) Saving '   1   'in : Configurations\Default\Screenshot\GScrSht_FChk.ct83
+(00:01:56) Saving '   1   'in : Configurations\Default\Screenshot\GScrSht_SChk.ct83
+(00:01:56) Saving '   00   'in : Configurations\Default\Coordinates\GCoord_x.ct83
+(00:01:56) Saving '   00   'in : Configurations\Default\Coordinates\GCoord_y.ct83
+(00:01:56) Saved All Data!
+(00:01:56) Saving '   800   'in : Configurations\Default\Target1\GS1_TarToday.ct83
+(00:01:56) Saving '   22   'in : Configurations\Default\Target1\GS1_TarHours.ct83
+(00:01:57) Saving '   0   'in : Configurations\Default\Target1\GS1_TarChk.ct83
+(00:01:57) Saving '   100   'in : Configurations\Default\Hustle1\GS1_HusLim.ct83
+(00:01:57) Saving '   600   'in : Configurations\Default\Hustle1\GS1_HusBef.ct83
+(00:01:57) Saving '   0   'in : Configurations\Default\Hustle1\GS1_HusChk.ct83
+(00:01:57) Saving '   15   'in : Configurations\Default\Randomization1\GS1_RandTar.ct83
+(00:01:57) Saving '   15   'in : Configurations\Default\Randomization1\GS1_RandHus.ct83
+(00:01:57) Saving '   0   'in : Configurations\Default\Randomization1\GS1_RandChk.ct83
+(00:01:58) Saving '   1   'in : Configurations\Default\Scheme1\GS1_Chk.ct83
+(00:01:58) Saving '   000   'in : Configurations\Default\Target2\GS2_TarToday.ct83
+(00:01:58) Saving '   000   'in : Configurations\Default\Target2\GS2_TarHours.ct83
+(00:01:58) Saving '   1   'in : Configurations\Default\Target2\GS2_TarChk.ct83
+(00:01:58) Saving '   000   'in : Configurations\Default\Hustle2\GS2_HusLim.ct83
+(00:01:58) Saving '   000   'in : Configurations\Default\Hustle2\GS2_HusBef.ct83
+(00:01:59) Saving '   1   'in : Configurations\Default\Hustle2\GS2_HusChk.ct83
+(00:01:59) Saving '   000   'in : Configurations\Default\Randomization2\GS2_RandTar.ct83
+(00:01:59) Saving '   000   'in : Configurations\Default\Randomization2\GS2_RandHus.ct83
+(00:01:59) Saving '   1   'in : Configurations\Default\Randomization2\GS2_RandChk.ct83
+(00:01:59) Saving '   1   'in : Configurations\Default\Scheme2\GS2_Chk.ct83
+(00:01:59) Saving '   000   'in : Configurations\Default\Target3\GS3_TarToday.ct83
+(00:02:00) Saving '   000   'in : Configurations\Default\Target3\GS3_TarHours.ct83
+(00:02:00) Saving '   1   'in : Configurations\Default\Target3\GS3_TarChk.ct83
+(00:02:00) Saving '   000   'in : Configurations\Default\Hustle3\GS3_HusLim.ct83
+(00:02:00) Saving '   000   'in : Configurations\Default\Hustle3\GS3_HusBef.ct83
+(00:02:01) Saving '   1   'in : Configurations\Default\Hustle3\GS3_HusChk.ct83
+(00:02:01) Saving '   000   'in : Configurations\Default\Randomization3\GS3_RandTar.ct83
+(00:02:01) Saving '   000   'in : Configurations\Default\Randomization3\GS3_RandHus.ct83
+(00:02:01) Saving '   1   'in : Configurations\Default\Randomization3\GS3_RandChk.ct83
+(00:02:01) Saving '   1   'in : Configurations\Default\Scheme3\GS3_Chk.ct83
+(00:02:01) Saving '   30   'in : Configurations\Default\Pushbullet\GPsh_AftCyc.ct83
+(00:02:02) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:02:02) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:02:02) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:02:02) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:02:02) Saving '   1   'in : Configurations\Default\Pushbullet\GPsh_Chk.ct83
+(00:02:03) Saving '   1   'in : Configurations\Default\Misc\Gautostartcheck.ct83
+(00:02:03) Saving '   60   'in : Configurations\Default\Misc\GCIAP.ct83
+(00:02:03) Saving '   001   'in : Configurations\Default\Misc\GNickName_Edit.ct83
+(00:02:03) Saving '   4   'in : Configurations\Default\Misc\GZ_Lim.ct83
+(00:02:03) Saving '   400   'in : Configurations\Default\Misc\GL_Lim.ct83
+(00:02:03) Saving '   Username   'in : Configurations\Default\LogIn\GLoginID.ct83
+(00:02:03) Saving '   Password   'in : Configurations\Default\LogIn\GPassword.ct83
+(00:02:04) Saving '   1   'in : Configurations\Default\Screenshot\GScrSht_FChk.ct83
+(00:02:04) Saving '   1   'in : Configurations\Default\Screenshot\GScrSht_SChk.ct83
+(00:02:04) Saving '   00   'in : Configurations\Default\Coordinates\GCoord_x.ct83
+(00:02:04) Saving '   00   'in : Configurations\Default\Coordinates\GCoord_y.ct83
+(00:02:04) Saved All Data!
+(00:02:05) Saving '   800   'in : Configurations\Default\Target1\GS1_TarToday.ct83
+(00:02:05) Saving '   22   'in : Configurations\Default\Target1\GS1_TarHours.ct83
+(00:02:05) Saving '   0   'in : Configurations\Default\Target1\GS1_TarChk.ct83
+(00:02:05) Saving '   100   'in : Configurations\Default\Hustle1\GS1_HusLim.ct83
+(00:02:05) Saving '   600   'in : Configurations\Default\Hustle1\GS1_HusBef.ct83
+(00:02:05) Saving '   0   'in : Configurations\Default\Hustle1\GS1_HusChk.ct83
+(00:02:06) Saving '   15   'in : Configurations\Default\Randomization1\GS1_RandTar.ct83
+(00:02:06) Saving '   15   'in : Configurations\Default\Randomization1\GS1_RandHus.ct83
+(00:02:06) Saving '   0   'in : Configurations\Default\Randomization1\GS1_RandChk.ct83
+(00:02:06) Saving '   1   'in : Configurations\Default\Scheme1\GS1_Chk.ct83
+(00:02:06) Saving '   000   'in : Configurations\Default\Target2\GS2_TarToday.ct83
+(00:02:07) Saving '   000   'in : Configurations\Default\Target2\GS2_TarHours.ct83
+(00:02:07) Saving '   1   'in : Configurations\Default\Target2\GS2_TarChk.ct83
+(00:02:07) Saving '   000   'in : Configurations\Default\Hustle2\GS2_HusLim.ct83
+(00:02:07) Saving '   000   'in : Configurations\Default\Hustle2\GS2_HusBef.ct83
+(00:02:07) Saving '   1   'in : Configurations\Default\Hustle2\GS2_HusChk.ct83
+(00:02:07) Saving '   000   'in : Configurations\Default\Randomization2\GS2_RandTar.ct83
+(00:02:07) Saving '   000   'in : Configurations\Default\Randomization2\GS2_RandHus.ct83
+(00:02:08) Saving '   1   'in : Configurations\Default\Randomization2\GS2_RandChk.ct83
+(00:02:08) Saving '   1   'in : Configurations\Default\Scheme2\GS2_Chk.ct83
+(00:02:08) Saving '   000   'in : Configurations\Default\Target3\GS3_TarToday.ct83
+(00:02:08) Saving '   000   'in : Configurations\Default\Target3\GS3_TarHours.ct83
+(00:02:08) Saving '   1   'in : Configurations\Default\Target3\GS3_TarChk.ct83
+(00:02:08) Saving '   000   'in : Configurations\Default\Hustle3\GS3_HusLim.ct83
+(00:02:08) Saving '   000   'in : Configurations\Default\Hustle3\GS3_HusBef.ct83
+(00:02:09) Saving '   1   'in : Configurations\Default\Hustle3\GS3_HusChk.ct83
+(00:02:09) Saving '   000   'in : Configurations\Default\Randomization3\GS3_RandTar.ct83
+(00:02:09) Saving '   000   'in : Configurations\Default\Randomization3\GS3_RandHus.ct83
+(00:02:09) Saving '   1   'in : Configurations\Default\Randomization3\GS3_RandChk.ct83
+(00:02:09) Saving '   1   'in : Configurations\Default\Scheme3\GS3_Chk.ct83
+(00:02:09) Saving '   30   'in : Configurations\Default\Pushbullet\GPsh_AftCyc.ct83
+(00:02:10) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:02:10) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:02:10) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:02:10) Saving '   4   'in : Configurations\Default\Pushbullet\GPsh_Tk1.ct83
+(00:02:10) Saving '   1   'in : Configurations\Default\Pushbullet\GPsh_Chk.ct83
+(00:02:10) Saving '   1   'in : Configurations\Default\Misc\Gautostartcheck.ct83
+(00:02:11) Saving '   60   'in : Configurations\Default\Misc\GCIAP.ct83
+(00:02:11) Saving '   001   'in : Configurations\Default\Misc\GNickName_Edit.ct83
+(00:02:11) Saving '   4   'in : Configurations\Default\Misc\GZ_Lim.ct83
+(00:02:11) Saving '   400   'in : Configurations\Default\Misc\GL_Lim.ct83
+(00:02:12) Saving '   Username   'in : Configurations\Default\LogIn\GLoginID.ct83
+(00:02:12) Saving '   Password   'in : Configurations\Default\LogIn\GPassword.ct83
+(00:02:12) Saving '   1   'in : Configurations\Default\Screenshot\GScrSht_FChk.ct83
+(00:02:12) Saving '   1   'in : Configurations\Default\Screenshot\GScrSht_SChk.ct83
+(00:02:12) Saving '   00   'in : Configurations\Default\Coordinates\GCoord_x.ct83
+(00:02:12) Saving '   00   'in : Configurations\Default\Coordinates\GCoord_y.ct83
+(00:02:12) Saved All Data!
